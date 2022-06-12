@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<general>
+	<name>
+		<first>Neonila</first>
+		<last>Hlovatska</last>
+	</name>
+	<age>34</age>
+	<number_of_pets>1</number_of_pets>
+	<salary>1000</salary>
+</general>
