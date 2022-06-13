@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<skills>
+	<skill id="1" type="Git Bash"></skill>
+	<skill id="2" type="Client Server Model"></skill>
+	<skill id="3" type="GitHub repository"></skill>
+	<skill id="4" type="API testing in Postman"></skill>
+    </skills>
