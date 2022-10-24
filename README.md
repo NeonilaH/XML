@@ -4,7 +4,7 @@ XML
 - `Create a new repository`
 2. Clone the XML repository to the local machine.
 - `git clone https://github.com/NeonilaH/XML.git`
-3. Inside the local XML, create the “new.xml” file.
+3. Inside the local XML create the “new.xml” file.
 - `touch new.xml`
 4. Add file under git.
 - `git add new.xml`
