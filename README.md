@@ -14,7 +14,7 @@
 - `git push`
 7. Edit the content of the “new.xml” file - write information about yourself (name, age, number of pets, future desired salary). Everything is written in XML format.
 - `nano new.xml`
-```
+```xml
 <?xml version="1.0" encoding="utf-8"?>
 <general>
 <name>
@@ -32,7 +32,7 @@
 - `touch preferences.xml`
 10. In the preferences.xml file, add information about your preferences (Favorite movie, favorite series, favorite food, favorite season, side you would like to visit) in XML format.
 - `nano preferences.xml`
-```
+```xml
 <?xml version="1.0" encoding="utf-8"?>
 <general>
 <favourite_film>None</favourite_film>
@@ -44,13 +44,30 @@
 ```
 11. Create a file sklls.xml add information about the skills that will be studied on the course in XML format.
 - `nano skills.xml`
-```
+```xml
+ines (22 sloc)  1.65 KB
+
 <?xml version="1.0" encoding="UTF-8"?>
 <skills>
-<skill id="1" type="Git Bash"></skill>
-<skill id="2" type="Client Server Model"></skill>
-<skill id="3" type="GitHub repository"></skill>
-<skill id="4" type="API testing in Postman"></skill>
+        <skill id="1" type="Basic theory. SDLC, STLC."></skill>
+        <skill id="2" type="What is a client-server architecture."></skill>
+        <skill id="3" type="HTTP request methods to the server and response codes."></skill>
+        <skill id="4" type="Structures of HTTP requests and responses."></skill>
+        <skill id="5" type="What is JSON, XML. Their structure."></skill>
+        <skill id="6" type="API testing via Postman (JS, API autotests)."></skill>
+        <skill id="7" type="Removing and reading logs from an external server."></skill>
+        <skill id="8" type="Dev Tools of web browsers (Google Chrome)."></skill>
+        <skill id="9" type="VPN (How it works, why you need it, how to use it, tool options)"></skill>
+        <skill id="10" type="Mobile testing."></skill>
+        <skill id="11" type="Feature iOS, Android, guidelines."></skill>
+        <skill id="12" type="Building Android applications on Android Studio."></skill>
+        <skill id="13" type="ADB (android device management)."></skill>
+        <skill id="14" type="Command line (terminal) Linux (copying, creating, viewing, moving files on servers without a graphical interface)"></skill>
+        <skill id="15" type="Basics of bash scripting, automation of routine tasks on the server."></skill>
+        <skill id="16" type="Access to remote servers."></skill>
+        <skill id="17" type="SQL basics (Create, Delete, Drop, Insert Into, Select, Where, Join)."></skill>
+        <skill id="18" type="Database Postgres (installation, configuration and use)."></skill>
+        <skill id="19" type="Scrum development methodology."></skill>
     </skills>
  ```
 12. Make a commit in one line.
@@ -59,7 +76,7 @@
 - `git push`
 14. On the web interface, create the bug_report.xml file.
 - `nano bug_report.xml`
-```
+```xml
 <?xml version="1.0" encoding="UTF-8"?>
 <bug_report>
 <Bug_id>111</Bug_id>
