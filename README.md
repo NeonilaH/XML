@@ -28,7 +28,7 @@ XML
 ```
 8. Push changes to an external repository.
 - `git commit -m "add changes to xml file"` ---> `git push`
-9. Create preferences.xml file
+9. Create preferences.xml file.
 - `touch preferences.xml`
 10. In the preferences.xml file, add information about your preferences (Favorite movie, favorite series, favorite food, favorite season, side you would like to visit) in XML format.
 - `nanonew.xml`
@@ -42,7 +42,7 @@ XML
 <favorite_season>summer</favorite_season>
 </general>
 ```
-11. Create a file sklls.xml add information about the skills that will be studied on the course in XML format
+11. Create a file sklls.xml add information about the skills that will be studied on the course in XML format.
 - `nanonew.xml`
 ```
 <?xml version="1.0" encoding="UTF-8"?>
@@ -86,6 +86,6 @@ XML
 ---> Go to the pencil button `Edit this file`
 17. Make Commit changes (save) changes on the web interface.
 - `commit changes`
-18. Synchronize external and local XML repository
+18. Synchronize external and local XML repository.
 - `git fetch`
 ---> `git pull`
