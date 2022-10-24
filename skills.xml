@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <skills>
-<skill id="1" type="Basic theory. SDLC, STLC."></skill>
-<skill id="2" type="What is a client-server architecture."></skill>
-<skill id="3" type="HTTP request methods to the server and response codes."></skill>
-<skill id="4" type="Structures of HTTP requests and responses."></skill>
-<skill id="5" type="What is JSON, XML. Their structure."></skill>
-<skill id="6" type="API testing via Postman (JS, API autotests)."></skill>
-<skill id="7" type="Removing and reading logs from an external server."></skill>
-<skill id="8" type="Dev Tools of web browsers (Google Chrome)."></skill>
-<skill id="9" type="VPN (How it works, why you need it, how to use it, tool options)"></skill>
-<skill id="10" type="Mobile testing."></skill>
-<skill id="11" type="Feature iOS, Android, guidelines."></skill>
-<skill id="12" type="Building Android applications on Android Studio."></skill>
-<skill id="13" type="ADB (android device management)."></skill>
-<skill id="14" type="Command line (terminal) Linux (copying, creating, viewing, moving files on servers without a graphical interface)"></skill>
-<skill id="15" type="Basics of bash scripting, automation of routine tasks on the server."></skill>
-<skill id="16" type="Access to remote servers."></skill>
-<skill id="17" type="SQL basics (Create, Delete, Drop, Insert Into, Select, Where, Join)."></skill>
-<skill id="18" type="Database Postgres (installation, configuration and use)."></skill>
-<skill id="19" type="Scrum development methodology."></skill>
+        <skill id="1" type="Basic theory. SDLC, STLC."></skill>
+        <skill id="2" type="What is a client-server architecture."></skill>
+        <skill id="3" type="HTTP request methods to the server and response codes."></skill>
+        <skill id="4" type="Structures of HTTP requests and responses."></skill>
+        <skill id="5" type="What is JSON, XML. Their structure."></skill>
+        <skill id="6" type="API testing via Postman (JS, API autotests)."></skill>
+        <skill id="7" type="Removing and reading logs from an external server."></skill>
+        <skill id="8" type="Dev Tools of web browsers (Google Chrome)."></skill>
+        <skill id="9" type="VPN (How it works, why you need it, how to use it, tool options)"></skill>
+        <skill id="10" type="Mobile testing."></skill>
+        <skill id="11" type="Feature iOS, Android, guidelines."></skill>
+        <skill id="12" type="Building Android applications on Android Studio."></skill>
+        <skill id="13" type="ADB (android device management)."></skill>
+        <skill id="14" type="Command line (terminal) Linux (copying, creating, viewing, moving files on servers without a graphical interface)"></skill>
+        <skill id="15" type="Basics of bash scripting, automation of routine tasks on the server."></skill>
+        <skill id="16" type="Access to remote servers."></skill>
+        <skill id="17" type="SQL basics (Create, Delete, Drop, Insert Into, Select, Where, Join)."></skill>
+        <skill id="18" type="Database Postgres (installation, configuration and use)."></skill>
+        <skill id="19" type="Scrum development methodology."></skill>
     </skills>
