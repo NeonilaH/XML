@@ -4,7 +4,7 @@
 <Title>Missing white lines on widgets</Title>
 <Severity><type>Major</type></Severity>
 <Priority><type>Medium</type></Priority>
-<Environment>Xiaomi Redmi 8A, MIUI Global 12.5.2, 10 QKQ1.191014.001</Environment>
+<Environment>Xiaomi Redmi 8A, MIUI Global  12.5.2, 10 QKQ1.191014.001</Environment>
 <Precondition>Desktop grid 5x5, font size Medium, zoom Medium</Precondition>
 <STR>
 <step id="1" type="Add 6 widgets"></step>
