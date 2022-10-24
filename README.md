@@ -85,7 +85,7 @@
 - `Open file`
 ---> Go to the pencil button `Edit this file`
 17. Make Commit changes (save changes) on the web interface.
-- `commit changes`
+- `Commit changes`
 18. Synchronize external and local XML repository.
 - `git fetch`
 ---> `git pull`
