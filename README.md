@@ -13,7 +13,7 @@ XML
 6. Submit the file to an external GitHub repository.
 - `git push`
 7. Edit the content of the “new.xml” file - write information about yourself (name, age, number of pets, future desired salary). Everything is written in XML format.
-- `nanonew.xml`
+- `nano new.xml`
 ```
 <?xml version="1.0" encoding="utf-8"?>
 <general>
@@ -31,7 +31,7 @@ XML
 9. Create preferences.xml file.
 - `touch preferences.xml`
 10. In the preferences.xml file, add information about your preferences (Favorite movie, favorite series, favorite food, favorite season, side you would like to visit) in XML format.
-- `nanonew.xml`
+- `nano new.xml`
 ```
 <?xml version="1.0" encoding="utf-8"?>
 <general>
@@ -43,7 +43,7 @@ XML
 </general>
 ```
 11. Create a file sklls.xml add information about the skills that will be studied on the course in XML format.
-- `nanonew.xml`
+- `nano new.xml`
 ```
 <?xml version="1.0" encoding="UTF-8"?>
 <skills>
@@ -58,7 +58,7 @@ XML
 13. Send 2 files at once to an external repository.
 - `git push`
 14. On the web interface, create the bug_report.xml file.
-- `nanonew.xml`
+- `nano new.xml`
 ```
 <?xml version="1.0" encoding="UTF-8"?>
 <bug_report>
