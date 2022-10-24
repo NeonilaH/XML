@@ -45,8 +45,6 @@
 11. Create a file sklls.xml add information about the skills that will be studied on the course in XML format.
 - `nano skills.xml`
 ```xml
-ines (22 sloc)  1.65 KB
-
 <?xml version="1.0" encoding="UTF-8"?>
 <skills>
         <skill id="1" type="Basic theory. SDLC, STLC."></skill>
