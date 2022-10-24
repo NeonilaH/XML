@@ -84,7 +84,7 @@
 16. Modify the bug_report.xml file on the web interface, add a bug report in XML format.
 - `Open file`
 ---> Go to the pencil button `Edit this file`
-17. Make Commit changes (save) changes on the web interface.
+17. Make Commit changes (save changes) on the web interface.
 - `commit changes`
 18. Synchronize external and local XML repository.
 - `git fetch`
