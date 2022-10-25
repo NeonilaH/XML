@@ -16,14 +16,15 @@
 - `nano new.xml`
 ```xml
 <?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <general>
-<name>
-<first>Neonila</first>
-<last>Hlovatska</last>
-</name>
-<age>34</age>
-<number_of_pets>1</number_of_pets>
-<salary>1000</salary>
+	<name>
+		<first>Neonila</first>
+		<last>Hlovatska</last>
+	</name>
+	<age>34</age>
+	<number_of_pets>1</number_of_pets>
+	<salary>1000</salary>
 </general>
 ```
 8. Push changes to an external repository.
@@ -35,11 +36,11 @@
 ```xml
 <?xml version="1.0" encoding="utf-8"?>
 <general>
-<favourite_film>None</favourite_film>
-<favourite_tv_series>None</favourite_tv_series>
-<favourite_food>Shrimps</favourite_food>
-<country_I_wanna_see>Japan</country_I_wanna_see>
-<favorite_season>summer</favorite_season>
+	<favourite_film>None</favourite_film>
+	<favourite_tv_series>None</favourite_tv_series>
+	<favourite_food>Shrimps</favourite_food>
+	<country_I_wanna_see>Japan</country_I_wanna_see>
+	<favourite_season>summer</favourite_season>
 </general>
 ```
 11. Create a file sklls.xml add information about the skills that will be studied on the course in XML format.
@@ -77,19 +78,23 @@
 ```xml
 <?xml version="1.0" encoding="UTF-8"?>
 <bug_report>
-<Bug_id>111</Bug_id>
-<Title>Missing white lines on widgets</Title>
-<Severity><type>Major</type></Severity>
-<Priority><type>Medium</type></Priority>
-<Environment>Xiaomi Redmi 8A, MIUI Global 12.5.2, 10 QKQ1.191014.001</Environment>
-<Precondition>Desktop grid 5x5, font size Medium, zoom Medium</Precondition>
-<STR>
-<step id="1" type="Add 6 widgets"></step>
-<step id="2" type="Arrange widgets as in the attachment"></step>
-</STR>
-<AR>The widget in the center has a missing white bottom line</AR>
-<ER>All widgets should have four white lines</ER>
-<Attachments>https://bit.ly/3NOFgrJ</Attachments>
+    <Bug_id>111</Bug_id>
+    <Title>Missing white lines on widgets</Title>
+    <Severity>
+        <type>Major</type>
+    </Severity>
+    <Priority>
+        <type>Medium</type>
+    </Priority>
+    <Environment>Xiaomi Redmi 8A, MIUI Global 12.5.2, 10 QKQ1.191014.001</Environment>
+    <Precondition>Desktop grid 5x5, font size Medium, zoom Medium</Precondition>
+    <STR>
+        <step id="1" type="Add 6 widgets"></step>
+        <step id="2" type="Arrange widgets as in the attachment"></step>
+    </STR>
+    <AR>The widget in the center has a missing white bottom line</AR>
+    <ER>All widgets should have four white lines</ER>
+    <Attachments>https://bit.ly/3NOFgrJ</Attachments>
 </bug_report>
 ```
 15. Make Commit changes (save) changes on the web interface.
